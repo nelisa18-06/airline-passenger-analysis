@@ -30,8 +30,8 @@ This project was created as a **learning-focused mini project** while starting m
 - Confirmed data types using `df.dtypes`
 - Ensured dataset consistency before analysis
 
-✔ No missing values were found  
-✔ Dataset was clean and ready for analysis
+ No missing values were found  
+ Dataset was clean and ready for analysis
 
 ##  Analysis Performed
 - Distribution of flight statuses
