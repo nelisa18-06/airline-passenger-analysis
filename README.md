@@ -27,7 +27,7 @@ flight status patterns, passenger demographics, and operational trends.
 
 ##  Files
 - `airline_analysis.ipynb` – Main analysis notebook
-- `Airline Dataset.csv` – Dataset used
+- `Airline Dataset.xls` – Dataset used
 
 ## Author
 Nelisa Soares
