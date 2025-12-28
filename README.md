@@ -56,7 +56,7 @@ This project was created as a **learning-focused mini project** while starting m
 - `Airline Dataset.csv` – Dataset used for analysis
 - `README.md` – Project documentation
 
-## 🚀 Conclusion
+##  Conclusion
 This mini project helped me understand the **basic workflow of a data analysis project**, including:
 - Data inspection
 - Cleaning
@@ -68,7 +68,7 @@ It serves as a foundation for more advanced data analysis projects in the future
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Nelisa Soares**  
 Aspiring Data Analyst | Beginner in Python & Data Analysis
 
